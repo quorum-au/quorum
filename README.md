@@ -52,6 +52,5 @@
 
 ## Meet the Devs
 - **Creator:** [Zosyn](https://github.com/vexa-au)
-- **Lead Developer:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
 - +2 Anonymous people
 ---
