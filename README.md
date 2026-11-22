@@ -50,7 +50,6 @@
 
 </div>
 
-## Meet the Devs
-- **Creator:** [Zosyn](https://github.com/vexa-au)
-- +2 Anonymous people
+## Meet the Founders
+- +3 Anonymous people
 ---
