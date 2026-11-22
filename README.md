@@ -5,14 +5,14 @@
 </p>
 
 > [!CAUTION]
-> The only official place to download Vexa is this GitHub repository. Any other websites offering downloads are not affiliated with us.
+> The only official place to download quorum is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
 > By downloading this software, having this software, or using this software, you agree to our [License](https://github.com/VexaAU/Vexa/blob/main/LICENSE).
 ---
 
 > [!NOTE]
-> Vexa is intended **for educational, experimental, and personal use only**.
-> This is an **advanced utility** for *Among Us*, powered by **BepInEx**.
+> Quorum is intended **for educational, experimental, and personal use only**.
+> We are an **utility** for *Among Us*, powered by **BepInEx**.
 > It allows players to modify gameplay, unlock features, and experiment
 > with the game’s mechanics through a feature-rich menu.
 > 
@@ -23,10 +23,8 @@
 > If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
 > 
 > After providing the necessary code for a pull request, We will decide whether to add it to Vexa or not. If it is added, you will be credited (if you'd like).
->
-> Discord: https://discord.gg/j6eb9TM5X5
 > 
-> Download: https://www.vexa-au.workers.dev
+> Download: https://www.quorum-au.workers.dev
 
 ---
 
