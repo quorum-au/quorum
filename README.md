@@ -90,6 +90,9 @@ unless you would rather not be named.
 
 ### Founding members
 
-Three people who would rather not be named.
+Three people who would rather not be named. But will be known as:
+A - Maintains the project
+B - Coder + Cybersecurity expert
+C - Coder
 
 </div>
